@@ -29,7 +29,7 @@
 
 1. **Draft Format.** The draft will be conducted live via Yahoo Fantasy Sports at a time selected by the Commissioner, contingent on the availability of all managers.
 2. **Draft Order.** The draft order will be randomly generated once all managers have confirmed their slots and the final list of participating managers has been submitted.
-3. **Time Limit Per Pick.** Managers shall have 75 seconds to make each selection. Failure to submit a selection within the allotted time will result in autodraft selecting a player on the manager's behalf.
+3. **Time Limit Per Pick.** Managers shall have 120 seconds to make each selection. Failure to submit a selection within the allotted time will result in autodraft selecting a player on the manager's behalf.
 4. **Draft Attendance.** Managers unable to attend the live draft must designate a proxy or submit a pre-ranked queue in advance. Failure to do so authorizes the league platform's autodraft to select on the manager's behalf.
 
 <br />

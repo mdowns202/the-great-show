@@ -67,11 +67,12 @@
 | He_Hate_Me                | Mark (Sr)    | ✔️    |
 | The OMFG WTF GD MF BS!!!  | Dwon         | ❌    |
 | HIMOTHY                   | Bone         | ❌    |
-| Reau Won                  | Jarreau      | ❌    |
+| Reau Won                  | Jarreau      | ✔️    |
 | Twisted T's               | Terence      | ✔️    |
 | MANN-UP                   | Darryle      | ❌    |
 | Jax N Time                | Charles      | ❌    |
 | The Soul Pole             | Alan         | ✔️    |
+| The GoonSquad             | Brandon      | ✔️    |
   
   </div>
   </div>
