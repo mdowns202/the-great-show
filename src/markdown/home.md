@@ -1,4 +1,4 @@
-<h1>✨Welcome to the SHOW ✨</h1>
+<h1>✨ Welcome to the SHOW ✨</h1>
 
 - **🏠 League home -> <u>[Yahoo Fantasy](https://football.fantasysports.yahoo.com/f1/344218)</u>**
 - **💰 Entry fee -> $60.00 ($55 + $5)**
