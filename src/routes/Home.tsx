@@ -5,7 +5,7 @@ import Nav from "../components/Nav.tsx";
 const Home = () => {
   return (
     <>
-      <div class="animate-camera-flash pointer-events-none fixed inset-0 z-50" />
+    {/* <div class="animate-camera-flash pointer-events-none fixed inset-0 z-50" /> */}
       <header>
         <Nav />
       </header>

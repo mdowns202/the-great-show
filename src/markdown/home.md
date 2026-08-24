@@ -77,6 +77,7 @@
 | Twisted T's               | Terence      | ✔️    |
 | MANN-UP                   | Darryle      | ❌    |
 | Jax N Time                | Charles      | ❌    |
+| The Soul Pole             | Alan         | ✔️    |
   
   </div>
   </div>

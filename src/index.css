@@ -70,15 +70,14 @@
 }
 
 @theme {
-  /* Increased duration to 1.2s for a longer, smooth trailing fade */
   --animate-camera-flash: camera-flash 1.2s ease-out 0.5s 1 forwards;
 }
 
 @keyframes camera-flash {
   0% { background-color: rgba(255, 255, 255, 0); }
-  5% { background-color: rgba(255, 255, 255, 0.95); }  /* Fast, blinding burst */
-  30% { background-color: rgba(255, 255, 255, 0.4); }   /* Lingering afterglow */
-  100% { background-color: rgba(255, 255, 255, 0); }    /* Fades completely away */
+  5% { background-color: rgba(255, 255, 255, 0.95); }
+  30% { background-color: rgba(255, 255, 255, 0.4); }
+  100% { background-color: rgba(255, 255, 255, 0); }
 }
 
 html,
@@ -230,7 +229,7 @@ main {
 
   h1 {
     @apply
-      w-full text-center font-cursive py-10 text-[5.6rem] sm:text-[2.7rem] md:text-[3.2rem] leading-snug;
+      w-full text-center font-cursive py-10 text-[3rem] leading-snug;
 
     span {
       @apply no-underline;
