@@ -1,7 +1,5 @@
 <h1>✨Welcome to the SHOW ✨</h1>
 
-<br /><br />
-
 - **🏠 League home -> <u>[Yahoo Fantasy](https://football.fantasysports.yahoo.com/f1/344218)</u>**
 - **💰 Entry fee -> $60.00 ($55 + $5)**
 - **📅 Draft day -> 9/6/2026 @ 7:00pm**
