@@ -8,12 +8,13 @@
     "npm:@tailwindcss/vite@^4.3.3": "4.3.3_vite@8.2.2",
     "npm:class-variance-authority@~0.7.1": "0.7.1",
     "npm:clsx@^2.1.1": "2.1.1",
-    "npm:marked@^18.0.10": "18.0.10",
+    "npm:marked@^18.0.11": "18.0.11",
     "npm:solid-js@^1.9.15": "1.9.15",
     "npm:tailwind-merge@^3.6.0": "3.6.0",
     "npm:tailwindcss-animate@^1.0.7": "1.0.7_tailwindcss@4.3.3",
     "npm:tailwindcss@^4.3.3": "4.3.3",
     "npm:vite-plugin-solid@^2.11.14": "2.11.14_solid-js@1.9.15_vite@8.2.2",
+    "npm:vite@*": "8.2.2",
     "npm:vite@^8.2.2": "8.2.2"
   },
   "npm": {
@@ -864,8 +865,8 @@
         "@jridgewell/sourcemap-codec"
       ]
     },
-    "marked@18.0.10": {
-      "integrity": "sha512-FJeH4bRpYoXiggcgriCGItKCSv3xkngJc4QCZ/rkQCogU3VYaLxYJoZl8Nw/b4+x7iij/pd+09mZ6A1dXzpL0A==",
+    "marked@18.0.11": {
+      "integrity": "sha512-HnslJfsZkRPBDJRHvVtAaWlZHEpSu7u8LgQuJCELjRKuWR+hpq4A7sLq3p8HaI9ypVoXDXxV34CsQJEe1+J5Aw==",
       "bin": true
     },
     "merge-anything@5.1.7": {
@@ -1069,7 +1070,7 @@
       "npm:@tailwindcss/vite@^4.3.3",
       "npm:class-variance-authority@~0.7.1",
       "npm:clsx@^2.1.1",
-      "npm:marked@^18.0.10",
+      "npm:marked@^18.0.11",
       "npm:solid-js@^1.9.15",
       "npm:tailwind-merge@^3.6.0",
       "npm:tailwindcss-animate@^1.0.7",

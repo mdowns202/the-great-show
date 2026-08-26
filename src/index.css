@@ -219,6 +219,11 @@ ol {
   }
 }
 
+.camera-flash {
+  @apply
+    animate-camera-flash pointer-events-none fixed inset-0 z-50;
+}
+
 main {
   @apply
     container prose-neutral dark:prose-invert p-4 w-[90%];
@@ -229,10 +234,11 @@ main {
 
   h1 {
     @apply
-      w-full text-center font-cursive py-10 text-[3rem] leading-snug;
+      w-full text-center font-cursive py-10 leading-snug
+      text-[5.6rem] sm:text-[3rem] text-shadow-lg sm:text-shadow-md text-shadow-[rgba(180,0,96,0.8)];
 
     span {
-      @apply no-underline;
+      @apply no-underline hidden sm:inline;
     }
   }
 
