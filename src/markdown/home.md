@@ -72,6 +72,8 @@
 | MANN-UP                   | Darryle      | ❌    |
 | The Soul Pole             | Alan         | ✔️    |
 | The GoonSquad             | Brandon      | ✔️    |
+| real draggers             | Tim D.       | ❌    |
+| Your Mother's Keeper      | Tim C.       | ❌    |
   
   </div>
   </div>
