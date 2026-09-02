@@ -69,7 +69,7 @@
 | HIMOTHY                   | Bone         | ❌    |
 | Reau Won                  | Jarreau      | ✔️    |
 | Twisted T's               | Terence      | ✔️    |
-| MANN-UP                   | Darryle      | ❌    |
+| MANN-UP                   | Darryle      | ✔️    |
 | The Soul Pole             | Alan         | ✔️    |
 | The GoonSquad             | Brandon      | ✔️    |
 | real draggers             | Tim D.       | ❌    |
