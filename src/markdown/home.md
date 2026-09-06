@@ -27,7 +27,6 @@
 <h1>Season Premiere 🎉</h1>
 
 <br />
-<br />
 
 <h2><span>Cast Billing (Draft Order)</span>*</h2>
 
