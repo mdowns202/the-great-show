@@ -29,7 +29,7 @@
 <br />
 <br />
 
-<h2><span>Cast Billing</span>*</h2>
+<h2><span>Cast Billing (Draft Order)</span>*</h2>
 
 <br />
 
