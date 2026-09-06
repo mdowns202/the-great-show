@@ -33,7 +33,7 @@
 
 <br />
 
-<ol class="flex flex-col items-center font-semibold">
+<ol class="flex flex-col font-semibold">
   <li class="list-decimal">Reau Won</li>
   <li class="list-decimal">Uptown Allblacks</li>
   <li class="list-decimal">lisan al gaib</li>
