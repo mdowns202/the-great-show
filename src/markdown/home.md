@@ -104,7 +104,7 @@
 | Uptown Allblacks          | BG           | ✔️    |
 | He_Hate_Me                | Mark (Sr)    | ✔️    |
 | The OMFG WTF GD MF BS!!!  | Dwon         | ✔️   |
-| HIMOTHY                   | Bone         | ❌    |
+| HIMOTHY                   | Bone         | ✔️    |
 | Reau Won                  | Jarreau      | ✔️    |
 | Twisted T's               | Terence      | ✔️    |
 | FANTASY GOD               | Darryle      | ✔️    |
