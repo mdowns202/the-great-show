@@ -112,7 +112,7 @@
 | The GoonSquad             | Brandon      | ✔️    |
 | real draggers             | Tim D.       | ❌    |
 | Your Mother's Keeper      | Tim C.       | ❌    |
-| lisan al gaib             | Julian       | ❌    |
+| lisan al gaib             | Julian       | ✔️    |
   
   </div>
   </div>
