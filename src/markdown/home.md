@@ -1,4 +1,4 @@
-<h1><span>✨ </span>Welcome to the SHOW ✨</h1>
+<h1>The Great Show</h1>
 
 - **🏠 League home -> <u>[Yahoo Fantasy](https://football.fantasysports.yahoo.com/f1/344218)</u>**
 - **💰 Entry fee -> $60.00 ($55 + $5)**
@@ -23,6 +23,43 @@
   </div>
   
   <div>
+
+<h1> 🎉 Season Premiere 🎉</h1>
+
+<br />
+<br />
+
+<h2><span>Cast Billing - Episode 1 <em>Draft Day</em></span>*</h2>
+
+<br />
+
+<ol class="flex flex-col items-center font-semibold">
+  <li class="list-decimal">Reau Won</li>
+  <li class="list-decimal">Uptown Allblacks</li>
+  <li class="list-decimal">lisan al gaib</li>
+  <li class="list-decimal">Twisted T's</li>
+  <li class="list-decimal">The OMFG WTF GD MF BS!!!</li>
+  <li class="list-decimal">The Soul Pole</li>
+  <li class="list-decimal">The GoonSquad</li>
+  <li class="list-decimal">FANTASY GOD</li>
+  <li class="list-decimal">real draggers</li>
+  <li class="list-decimal">HIMOTHY</li>
+  <li class="list-decimal">Your Mother's Keeper</li>
+  <li class="list-decimal">He_Hate_Me</li>
+</ol>
+
+<br />
+
+\* *All manager dues must be paid before draft can take place*
+
+<br />
+<br />
+
+<div class="draft-button"><a href="https://football.fantasysports.yahoo.com/f1/344218/draft">Go to Draft Central</a></div>
+<div class="draft-button"><a href="https://meet.google.com/euc-odzu-qvm">Google Meet for Draft</a></div>
+
+<br />
+<br />
 
 <h2><span>Season Prizes 🏆</span></h2>
 
@@ -57,7 +94,7 @@
 
   <div>
 
-<h2><span>Confirmed Teams 🎥</span></h2>
+<h2><span>Main Cast 🎭</span></h2>
 
   <div class="table-section">
 
@@ -65,15 +102,16 @@
 | ------------------------- | ------------ | ----- |
 | Uptown Allblacks          | BG           | ✔️    |
 | He_Hate_Me                | Mark (Sr)    | ✔️    |
-| The OMFG WTF GD MF BS!!!  | Dwon         | ❌    |
+| The OMFG WTF GD MF BS!!!  | Dwon         | ✔️   |
 | HIMOTHY                   | Bone         | ❌    |
 | Reau Won                  | Jarreau      | ✔️    |
 | Twisted T's               | Terence      | ✔️    |
-| MANN-UP                   | Darryle      | ✔️    |
+| FANTASY GOD               | Darryle      | ✔️    |
 | The Soul Pole             | Alan         | ✔️    |
 | The GoonSquad             | Brandon      | ✔️    |
 | real draggers             | Tim D.       | ❌    |
 | Your Mother's Keeper      | Tim C.       | ❌    |
+| lisan al gaib             | Julian       | ❌    |
   
   </div>
   </div>
