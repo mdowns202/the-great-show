@@ -1,5 +1,7 @@
 <h1>The Great Show</h1>
 
+- **🎯 Draft Central -> <u>[Draft Room](https://football.fantasysports.yahoo.com/f1/344218/draft)</u>**
+- **📌 Google Meet for Draft -> <u>[Meeting Room](https://meet.google.com/euc-odzu-qvm)</u>**
 - **🏠 League home -> <u>[Yahoo Fantasy](https://football.fantasysports.yahoo.com/f1/344218)</u>**
 - **💰 Entry fee -> $60.00 ($55 + $5)**
 - **📅 Draft day -> 9/6/2026 @ 7:00pm**
