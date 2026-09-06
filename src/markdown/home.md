@@ -24,7 +24,7 @@
   
   <div>
 
-<h1> 🎉 Season Premiere 🎉</h1>
+<h1>Season Premiere 🎉</h1>
 
 <br />
 <br />
