@@ -1,66 +1,13 @@
 <h1>The Great Show</h1>
 
-- **🎯 Draft Central -> <u>[Draft Room](https://football.fantasysports.yahoo.com/f1/344218/draft)</u>**
-- **📌 Google Meet for Draft -> <u>[Meeting Room](https://meet.google.com/euc-odzu-qvm)</u>**
 - **🏠 League home -> <u>[Yahoo Fantasy](https://football.fantasysports.yahoo.com/f1/344218)</u>**
-- **💰 Entry fee -> $60.00 ($55 + $5)**
-- **📅 Draft day -> 9/6/2026 @ 7:00pm**
 - **🔁 Trade deadline -> 11/28/2026**
-- **⚔️ League size -> 12 teams**
 - **👑 S25 Champion -> Twisted T's**
-- **👨‍⚖️ Commissioner -> Mark II AKA BG AKA Big Mr. Catch Em in the Alley, Walk Em Down wit da Draco**
+- **👨‍⚖️ Commissioner -> BG**
 
 <br />
 
-<div class="md-container">
   <div>
-    <center><h2>Entry Methods 🎟️</h2></center>
-    <section>
-      <center>
-        <a class="group" href="https://venmo.com/mark-downs?amount=60.00"><img src="/the-great-show/Venmo_Monogram.svg" /><span>@mark-downs</span></a>
-        <a class="group" href="https://cash.app/pay/link/a7ftq3o5"><img src="/the-great-show/Square_Cash_app_logo.svg" /><span>$senditdatway</span></a>
-        <a class="group" href="https://paypal.me/Mdowns202/60"><img src="/the-great-show/paypal-logo.svg" /><span>@Mdowns202</span></a>
-      </center>
-    </section>
-  </div>
-  
-  <div>
-
-<h1>Season Premiere 🎉</h1>
-
-<br />
-
-<h2><span>Cast Billing (Draft Order)</span>*</h2>
-
-<br />
-
-<ol class="flex flex-col font-semibold">
-  <li class="list-decimal">Reau Won</li>
-  <li class="list-decimal">Uptown Allblacks</li>
-  <li class="list-decimal">lisan al gaib</li>
-  <li class="list-decimal">Twisted T's</li>
-  <li class="list-decimal">The OMFG WTF GD MF BS!!!</li>
-  <li class="list-decimal">The Soul Pole</li>
-  <li class="list-decimal">The GoonSquad</li>
-  <li class="list-decimal">FANTASY GOD</li>
-  <li class="list-decimal">real draggers</li>
-  <li class="list-decimal">HIMOTHY</li>
-  <li class="list-decimal">Your Mother's Keeper</li>
-  <li class="list-decimal">He_Hate_Me</li>
-</ol>
-
-<br />
-
-\* *All manager dues must be paid before draft can take place*
-
-<br />
-<br />
-
-<div class="draft-button"><a href="https://football.fantasysports.yahoo.com/f1/344218/draft">Go to Draft Central</a></div>
-<div class="draft-button"><a href="https://meet.google.com/euc-odzu-qvm">Google Meet for Draft</a></div>
-
-<br />
-<br />
 
 <h2><span>Season Prizes 🏆</span></h2>
 
@@ -99,20 +46,20 @@
 
   <div class="table-section">
 
-| Name                      | Manager      | Paid? |
-| ------------------------- | ------------ | ----- |
-| Uptown Allblacks          | BG           | ✔️    |
-| He_Hate_Me                | Mark (Sr)    | ✔️    |
-| The OMFG WTF GD MF BS!!!  | Dwon         | ✔️   |
-| HIMOTHY                   | Bone         | ✔️    |
-| Reau Won                  | Jarreau      | ✔️    |
-| Twisted T's               | Terence      | ✔️    |
-| FANTASY GOD               | Darryle      | ✔️    |
-| The Soul Pole             | Alan         | ✔️    |
-| The GoonSquad             | Brandon      | ✔️    |
-| real draggers             | Tim D.       | ✔️    |
-| Your Mother's Keeper      | Tim C.       | ❌    |
-| lisan al gaib             | Julian       | ✔️    |
+| Name                      | Manager      | 2026 Record |
+| ------------------------- | ------------ | ----------- |
+| Uptown Allblacks          | BG           | 0-0         |
+| He_Hate_Me                | Mark (Sr)    | 0-0         |
+| The OMFG WTF GD MF BS!!!  | Dwon         | 0-0         |
+| HIMOTHY                   | Bone         | 0-0         |
+| Reau Won                  | Jarreau      | 0-0         |
+| Twisted T's               | Terence      | 0-0         |
+| FANTASY GOD               | Darryle      | 0-0         |
+| The Soul Pole             | Alan         | 0-0         |
+| Losing Hurts like hell    | Brandon      | 0-0         |
+| real draggers             | Tim D.       | 0-0         | 
+| Your Mother's Keeper      | Tim C.       | 0-0         |
+| lisan al gaib             | Julian       | 0-0         |
   
   </div>
   </div>
